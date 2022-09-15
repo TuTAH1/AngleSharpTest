@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "T:\\мои документы\\Документы 2017\\PRO gramm\\VS\\PRO ect\\с#\\Текущие\\UpdaterForm\\UpdaterForm.csproj": {}
+  },
+  "projects": {
+    "T:\\мои документы\\Документы 2017\\PRO gramm\\VS\\PRO ect\\с#\\Текущие\\UpdaterForm\\UpdaterForm.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "T:\\мои документы\\Документы 2017\\PRO gramm\\VS\\PRO ect\\с#\\Текущие\\UpdaterForm\\UpdaterForm.csproj",
+        "projectName": "UpdaterForm",
+        "projectPath": "T:\\мои документы\\Документы 2017\\PRO gramm\\VS\\PRO ect\\с#\\Текущие\\UpdaterForm\\UpdaterForm.csproj",
+        "packagesPath": "C:\\Users\\TITAN\\.nuget\\packages\\",
+        "outputPath": "T:\\мои документы\\Документы 2017\\PRO gramm\\VS\\PRO ect\\с#\\Текущие\\UpdaterForm\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\TITAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "AngleSharp": {
+              "target": "Package",
+              "version": "[0.17.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

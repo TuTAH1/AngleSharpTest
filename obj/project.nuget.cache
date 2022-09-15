@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fmmqCB57cm/qpV3FmcATMGitsrbsqHLtoMkWJVz2yfRjoKuSvJD20ErRn/Cf64VqRUjQcINJKMODtKLEY8o2jg==",
+  "success": true,
+  "projectFilePath": "T:\\мои документы\\Документы 2017\\PRO gramm\\VS\\PRO ect\\с#\\Текущие\\UpdaterForm\\UpdaterForm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TITAN\\.nuget\\packages\\anglesharp\\0.17.1\\anglesharp.0.17.1.nupkg.sha512",
+    "C:\\Users\\TITAN\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\TITAN\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\TITAN\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

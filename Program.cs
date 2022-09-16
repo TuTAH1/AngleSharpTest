@@ -24,7 +24,7 @@ namespace UpdaterForm
 			var config = new Configuration().WithDefaultLoader().With(requester);
 			var document = await BrowsingContext.New(config).OpenAsync(urlAddress);
 
-			MessageBox.Show("all ok");
+			MessageBox.Show("response is " + (document == null? "empty" : "ok"));
 		}
 	}
 }
